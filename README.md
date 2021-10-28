@@ -1,12 +1,16 @@
-# badBank
+# BadBank
 
-## Description/Motivation: I made this application to show my knowlege in react as well as how to create a full MERN stack application.
-## Installation Guidelines: first you are going to want to git clone to your own machine using the terminal in vscode. run npm intall to download dependencies. Run node index.js and vist localhost:3000.
+## Description/Motivation: 
+I made this application to show my knowlege in react as well as how to create a full MERN stack application.
+## Installation Guidelines: 
+first you are going to want to git clone to your own machine using the terminal in vscode. run npm intall to download dependencies. Run node index.js and vist localhost:3000.
 ## Screenshots: 
 <img src="https://res.cloudinary.com/walterscloudinary/image/upload/v1635438674/Screen_Shot_2021-10-28_at_12.26.31_PM_ompthz.png"/>
 
-## Technology used: MERN stack 
-## Features: Working on adding authentication.
+## Technology used: 
+MERN stack 
+## Features: 
+Working on adding authentication.
 ## License: 
 Copyright 2021 Walter Vannoy
 
